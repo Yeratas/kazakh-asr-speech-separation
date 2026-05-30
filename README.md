@@ -67,6 +67,11 @@ pip install yt-dlp faster-whisper demucs jiwer
 
 ---
 
+## Viewing the Notebook
+
+GitHub may fail to render the notebook due to Kazakh Unicode characters in cell outputs.Try downloading ot and seeing it locally.
+
+---
 ## Notebook Structure
 
 | Cell | Description |
