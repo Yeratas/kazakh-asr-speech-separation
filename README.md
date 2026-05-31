@@ -86,6 +86,11 @@ GitHub may fail to render the notebook due to Kazakh Unicode characters in cell 
 
 ## Results
 
+After `Separate 10 min audio` and `Separate full audio + measure time` cells in the `separated|htdemusc` folder `no_vocals.wav` and `vocals.wav` gets created 
+
+By using the `whisper` model and `raw` and `vocals` audio transcription was done. By comparing two versions of transcriptions with `book_transcript_gashyktar001.txt` the WER values were calulated.
+
+---
 | Condition | WER |
 |-----------|-----|
 | With background music (raw) | 79.3% |
